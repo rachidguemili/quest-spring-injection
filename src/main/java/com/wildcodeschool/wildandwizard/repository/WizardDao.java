@@ -4,6 +4,7 @@ import com.wildcodeschool.wildandwizard.entity.Wizard;
 
 import java.util.List;
 
+
 public interface WizardDao {
 
     Wizard save(Wizard entity);

@@ -2,7 +2,10 @@ package com.wildcodeschool.wildandwizard.entity;
 
 import java.sql.Date;
 
+
+
 public class Wizard {
+
 
     private Long id;
     private String firstName;
